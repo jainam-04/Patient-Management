@@ -1,4 +1,4 @@
-package com.pm.dto;
+package com.pm.patientservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

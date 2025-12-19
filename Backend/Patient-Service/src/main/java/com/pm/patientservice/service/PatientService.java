@@ -1,12 +1,12 @@
-package com.pm.service;
+package com.pm.patientservice.service;
 
-import com.pm.dto.PatientRequestDTO;
-import com.pm.dto.PatientResponseDTO;
-import com.pm.exception.EmailAlreadyExistsException;
-import com.pm.exception.PatientNotFoundException;
-import com.pm.mapper.PatientMapper;
-import com.pm.model.Patient;
-import com.pm.repository.PatientRepository;
+import com.pm.patientservice.dto.PatientRequestDTO;
+import com.pm.patientservice.dto.PatientResponseDTO;
+import com.pm.patientservice.exception.EmailAlreadyExistsException;
+import com.pm.patientservice.exception.PatientNotFoundException;
+import com.pm.patientservice.mapper.PatientMapper;
+import com.pm.patientservice.model.Patient;
+import com.pm.patientservice.repository.PatientRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
