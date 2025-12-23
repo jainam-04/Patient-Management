@@ -5,7 +5,7 @@ Content-Type: application/json
 
 {
     "name": "Jainam Rupani",
-    "email": "jainamrupani04@gmail.com",
+    "email": "jainamrupani@gmail.com",
     "address": "Abhiyanta Colony Ramnagar Chandrapur",
     "dateOfBirth": "2003-10-04",
     "registeredDate": "2025-12-14"
